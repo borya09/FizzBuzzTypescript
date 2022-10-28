@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "npm test",
+    "start": "ts-node src/main.ts",
     "test": "jest",
     "test:dev": "jest --watchAll"
   },
